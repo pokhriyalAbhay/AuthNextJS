@@ -1,0 +1,4 @@
+hamare pass ek databse han or ek hamne app banyai hain jab hmm signin karenge toh app ne hamre ek token genrate kiya or time bhi or uski ek copy database mai save kar di or ek user ke email par bhej di suppose usne
+email pe link par kiya or yeh information wapas aa jati hain app ke pass , ab app ki responsiblilty yeh ki database se query karo 
+ki pass koe aasa token hai  
+abhay123
